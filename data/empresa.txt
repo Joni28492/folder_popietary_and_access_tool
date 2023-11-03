@@ -1,0 +1,24 @@
+pepe
+p => dir1
+a => dir2 dir3
+n => el jefe
+
+juan
+p => dir2
+a => dir3 dir4
+n => 
+
+maria
+p => dir1
+a => dir2 dir3
+n => la secretaria
+
+ana
+p => dir4 dir3 
+a => dir4 dir3
+n =>
+
+
+
+
+

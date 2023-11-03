@@ -1,0 +1,13 @@
+maria
+p => dir1
+a => dir2 dir3
+n => la secretaria
+
+ana
+p => dir4 dir3 
+a => dir4 dir3
+n =>
+
+
+
+
